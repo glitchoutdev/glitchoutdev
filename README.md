@@ -1,6 +1,7 @@
 ### Hi there! my name is Glitch.
 #### I am a front-end and a game developer.
-![I am a front-end and a game developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a front-end and a game developer.](![image](https://github.com/glitchoutw/glitchoutw/assets/77119346/9c27932a-156d-4120-b331-3e0869f09566)
+)
 
 Hello! I am ***Glitch***, a 17 year old front-end and a game developer living in Romania. You can contact me from ([my Instagram.](https://instagram.com/glitchoutw))
 
