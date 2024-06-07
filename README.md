@@ -64,7 +64,7 @@ Check out my website! https://glitchoutw.github.io/glitchoutdev/
 
 <div style="display: flex; flex-direction: row;">
   <a align="center" href="https://discord.com/users/731480310184935426">
-    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/301035790891352076?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true"
+    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/731480310184935426?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true"
       </a>
 </div>  
 <br>
