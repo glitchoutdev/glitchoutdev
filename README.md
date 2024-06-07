@@ -16,7 +16,7 @@ Check out my website! https://glitchoutw.github.io/glitchoutdev/
 <div align="center" class="skills" style="display: flex; flex-flow: column wrap">
 	<details open>
 	<summary>Skills</summary><br>
-	[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,py,pr,unity)](https://skillicons.dev)
+	https://skillicons.dev/icons?i=html,css,js,cs,py,pr,unity)](https://skillicons.dev
 	<br><br>
 	<details>
 	<summary>Frameworks & Other stuff</summary>
