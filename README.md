@@ -1,7 +1,7 @@
 <div align="center" class="head-me" style="display: flex; flex-flow: column wrap;">
 	<img src="![status](https://api.statusbadges.me/badge/status/731480310184935426?simple=true)"/> <img src="https://komarev.com/ghpvc/?username=glitchoutw&color=9963B" alt="watching_count" /><br>
 	<br>
-	<img src="https://cdn.discordapp.com/attachments/731537919860539432/1248610535055032351/GlitchOut__1_-removebg-preview.png?ex=66644aad&is=6662f92d&hm=2b0a929fb1529aae895b23bfc5aea79eaed7e549d9a9b2d361e615a3754909b9&"/>
+	<img src="https://cdn.discordapp.com/attachments/731537919860539432/1248617530898124901/Hi__my_name_is-removebg-preview.png?ex=66645131&is=6662ffb1&hm=1bf418786855e846ac2892bb464cb1a3178dec76c5b1f608c1ee0c4bc8a57584&"/>
 	<br><br>
  
 	17 y.o. front-end developer & designer.
