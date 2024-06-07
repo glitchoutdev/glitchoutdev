@@ -7,7 +7,7 @@ Hello! I am ***Glitch***, a 17 year old front-end and a game developer living in
 
 Skills: HTML / CSS / JS / C#
 
-- 🔭 I’m currently working on a 2d platformer game. 
+- My website: https://glitchoutw.github.io/glitchoutdev/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/glitchoutw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/glitchoutw/)  
