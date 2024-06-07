@@ -48,7 +48,7 @@ Check out my website! https://glitchoutw.github.io/glitchoutdev/
 	<summary>My contacts</summary><br>
 	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/contacts.svg"/>
 	<br><br>
- 	<a href="https://discordlookup.com/user/731480310184935426"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Discord.svg" width="50"/></a>
+ 	<a href="https://discord.com/users/731480310184935426"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Discord.svg" width="50"/></a>
   	<a href="https://instagram.com/glitchoutw"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="50"/></a>
    	<br><br>or...<br><br>
     	<a>✉️ Email: <a href="mailto://glitchoutdev@gmail.com">glitchoutdev@gmail.com</a></a><br>
