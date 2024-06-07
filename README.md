@@ -91,7 +91,7 @@ Check out my website! https://glitchoutw.github.io/glitchoutdev/
 	</tr>
 </table>
 <td width="1200px">
-<a href="http://www.github.com/glitchoutw"><img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchoutw&theme=midnight-purple&hide_border=true" /></a>
+<a href="http://www.github.com/glitchoutw"><img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchoutw&theme=midnight-purple&hide_border=true&bg_color=0D1117"/></a>
 </details>
 </td>
 
