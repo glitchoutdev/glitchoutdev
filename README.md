@@ -90,8 +90,9 @@ Check out my website! https://glitchoutw.github.io/glitchoutdev/
 		</td>
 	</tr>
 </table>
-
+<td width="1200px">
 <a href="http://www.github.com/glitchoutw"><img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchoutw&theme=midnight-purple&hide_border=true" /></a>
 </details>
+</td>
 
 readme layout made by <a href="https://github.com/nichind">https://github.com/nichind</a>
