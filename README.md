@@ -27,9 +27,7 @@ Check out my website! https://glitchoutw.github.io/glitchoutdev/
 	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" width="50"/><a>&nbsp;</a> 
 	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg" width="50"/><a>&nbsp;</a> 
 	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Photoshop.svg" width="50"/><a>&nbsp;</a> 
-	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/AfterEffects.svg" width="50"/><a>&nbsp;</a> 
 	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Premiere.svg" width="50"/><a>&nbsp;</a> 
-	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Blender-Dark.svg" width="50"/><a>&nbsp;</a> 
 	<br><br>
 	<details>
 	<br><br>
