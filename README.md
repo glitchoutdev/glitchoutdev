@@ -19,7 +19,7 @@ Check out my website! https://glitchoutw.github.io/glitchoutdev/
 	<details open>
 	<summary>Skills</summary><br>
 	<div align="center" class="skills" style="display: flex; flex-flow: column wrap">
-	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/contacts.svg"/><br>
+	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/skills.svg"/><br><br>
 	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Dark.svg" width="50"/><a>&nbsp;</a> 
 	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" width="50"/><a>&nbsp;</a> 
 	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TypeScript.svg" width="50"/><a>&nbsp;</a> 
@@ -46,7 +46,7 @@ Check out my website! https://glitchoutw.github.io/glitchoutdev/
 <div align="center" class="contacts" style="display: flex; flex-flow: column wrap;">
 	<details open>
 	<summary>My contacts</summary><br>
-	<img src="https://cdn.discordapp.com/attachments/731537919860539432/1248611371554312192/GlitchOut__2_-removebg-preview.png?ex=66644b75&is=6662f9f5&hm=14b6351afd6c3ae2067fe0362a57430e2915e1ec6efa212780184df41f784f8c&"/>
+	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/contacts.svg"/>
 	<br><br>
  	<a href="https://discordlookup.com/user/731480310184935426"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Discord.svg" width="50"/></a>
   	<a href="https://instagram.com/glitchoutw"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="50"/></a>
