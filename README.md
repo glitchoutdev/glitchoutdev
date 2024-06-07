@@ -83,10 +83,10 @@ Check out my website! https://glitchoutw.github.io/glitchoutdev/
 <table align="center">
 	<tr>
 		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=glitchoutw&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" draggable="false">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=glitchoutw&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" draggable="false">
 		</td>
 		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchoutw&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" draggable="false">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchoutw&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117" draggable="false">
 		</td>
 	</tr>
 </table>
