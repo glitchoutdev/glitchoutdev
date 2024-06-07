@@ -1,4 +1,5 @@
 <div align="center" class="head-me" style="display: flex; flex-flow: column wrap;">
+	<img src="https://api.statusbadges.me/badge/status/731480310184935426"/>
 	<img src="https://komarev.com/ghpvc/?username=glitchoutw&color=9963B3" alt="watching_count"/>
 	<br>
 	<br>
