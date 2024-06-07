@@ -12,6 +12,5 @@ Skills: HTML / CSS / JS / C#
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/glitchoutw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/glitchoutw/)  
 
-![glitchoutw's Stats](https://github-readme-stats.vercel.app/api?username=glitchoutw&theme=onedark&show_icons=true&hide_border=false&count_private=true)
 
 ![glitchoutw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=glitchoutw&theme=onedark&hide_border=false)
