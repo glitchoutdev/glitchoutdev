@@ -19,7 +19,7 @@ Check out my website! https://glitchoutw.github.io/glitchoutdev/
 	<details open>
 	<summary>Skills</summary><br>
 	<div align="center" class="skills" style="display: flex; flex-flow: column wrap">
-	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/skills.svg"/><br><br>
+	<img src="https://raw.githubusercontent.com/nichind/nichind/dd073285c74006a8a95048c2eb528b50dfa91730/assets/img/contacts.svg"/><br>
 	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Python-Dark.svg" width="50"/><a>&nbsp;</a> 
 	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" width="50"/><a>&nbsp;</a> 
 	<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/TypeScript.svg" width="50"/><a>&nbsp;</a> 
