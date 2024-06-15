@@ -11,7 +11,7 @@
   	Fluently speaking English & Turkish.
 </div>
 
-Check out my website! https://glitchoutw.github.io/glitchoutdev/
+Check out my website! https://glitchoutdev.github.io/
 
 ----
 
