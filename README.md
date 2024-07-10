@@ -1,6 +1,6 @@
 <div align="center" class="head-me" style="display: flex; flex-flow: column wrap;">
 	<img src="https://api.statusbadges.me/badge/status/731480310184935426"/>
-	<img src="https://komarev.com/ghpvc/?username=glitchoutw&color=9963B3" alt="watching_count"/>
+	<img src="https://komarev.com/ghpvc/?username=glitchoutdev&color=9963B3" alt="watching_count"/>
 	<br>
 	<br>
 	<img src="https://cdn.discordapp.com/attachments/731537919860539432/1248617530898124901/Hi__my_name_is-removebg-preview.png?ex=66645131&is=6662ffb1&hm=1bf418786855e846ac2892bb464cb1a3178dec76c5b1f608c1ee0c4bc8a57584&"/>
@@ -83,15 +83,15 @@ Check out my website! https://glitchoutdev.github.io/
 <table align="center">
 	<tr>
 		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=glitchoutw&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" draggable="false">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=glitchoutdev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" draggable="false">
 		</td>
 		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchoutw&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117" draggable="false">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchoutdev&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117" draggable="false">
 		</td>
 	</tr>
 </table>
 <td width="1200px">
-<a href="http://www.github.com/glitchoutw"><img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchoutw&theme=midnight-purple&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/glitchoutw"><img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchoutdev&theme=midnight-purple&hide_border=true&bg_color=0D1117"/></a>
 </details>
 </td>
 
