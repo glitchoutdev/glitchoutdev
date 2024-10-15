@@ -3,14 +3,11 @@
 	<img src="https://komarev.com/ghpvc/?username=glitchoutdev&color=9963B3" alt="watching_count"/>
 	<br>
 	<br>
-	<br><br>
  
 	17 y.o. front-end developer & designer.
  	Fully self-taught, currently studying C#.
   	Fluently speaking English & Turkish.
 </div>
-
-Check out my website! https://glitchoutdev.github.io/
 
 ----
 
