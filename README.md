@@ -3,7 +3,6 @@
 	<img src="https://komarev.com/ghpvc/?username=glitchoutdev&color=9963B3" alt="watching_count"/>
 	<br>
 	<br>
-	<img src="https://cdn.discordapp.com/attachments/731537919860539432/1248617530898124901/Hi__my_name_is-removebg-preview.png?ex=66645131&is=6662ffb1&hm=1bf418786855e846ac2892bb464cb1a3178dec76c5b1f608c1ee0c4bc8a57584&"/>
 	<br><br>
  
 	17 y.o. front-end developer & designer.
