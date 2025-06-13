@@ -7,7 +7,7 @@
  
 	17 y.o. front-end developer & designer.
  	Fully self-taught, currently studying C#.
-  	Fluently speaking English & Turkish.
+  	Fluently speaking English & Turkish, and a little bit of Romanian.
 </div>
 
 ----
